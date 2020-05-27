@@ -1,4 +1,3 @@
-# Jaydens HUW Work
 <html>
   <h1>Intro To Media Webpage</h1>
   My Virtual Landscape
